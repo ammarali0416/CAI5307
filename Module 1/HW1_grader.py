@@ -9,7 +9,7 @@ import traceback
 import time
 
 
-studentName = "TestStudent"
+studentName = "Ammar Ali U50902685"
 inputFileName = 'hw1.py'
 
 #there will likely be 5-10 problems
